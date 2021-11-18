@@ -1,13 +1,13 @@
 # Changing_the_keyboard_layout
-Привет! Если ты набрал текст выбрав не ту раскладку, и на выходе получил непонятный набор букв, просто вставь его в мою программу!
-Поддерживаемые языки - русский, английский.
-Перед запуском убавь громкость!
+Hi! If you typed the text by choosing the wrong layout, and got an incomprehensible set of letters at the output, just insert it into my program!
+Supported languages are Russian, English.
+Turn down the volume before starting!
 
-Пример №1:
-Ввод: Руддщ цщкдв!
-Вывод: Hello world!
+Example №1:
+Input: Руддщ цщкдв!
+Output: Hello world!
 
-Пример №2:
-Ввод: Vfibyf t[fkf gj ljhjut/
-Вывод: Машина ехала по дороге.
+Example №2:
+Input: Vfibyf t[fkf gj ljhjut/
+Output: Машина ехала по дороге.
 
